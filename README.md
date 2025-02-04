@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @drongier
+- 👋 Hi there, I’m @drongier
 - 👀 I’m interested in IT / Blockchain / Music 
 - 🌱 I’m currently learning at 42 Berlin 
 

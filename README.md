@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Damien Drongier</h1>
+<h1 align="center">Hi 👋 I'm Damien Rongier</h1>
 
 <p align="center">
   🎧 Tech & Music Enthusiast • 💻 Learning @ 42 Berlin • 🔗 Exploring Blockchain
@@ -29,9 +29,8 @@
 
 ### 📫 Let's Connect
 
-
 - [Email](mailto:rongier.damien@gmail.com)  
-- Festival Page - @ekotone_festival
+- [Festival EKOTONE](https://www.instagram.com/ekotone_festival/) 
 
 ---
 

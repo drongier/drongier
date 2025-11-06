@@ -11,7 +11,7 @@
 - 🎓 Currently studying at **42 Berlin**
 - 🚀 Passionate about **IT**, **blockchain technologies** and **electronic music**
 - 🌍 Based in **Berlin**, originally from **France**
-- 🎵 Running a small music festival & working on a map of global bass music culture
+- 🎵 Running a small music festival
 
 ---
 

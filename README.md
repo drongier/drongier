@@ -39,6 +39,5 @@
 
 - I’ve always lived in flatshares and love meeting people from everywhere 🌍  
 - I’m both a night owl and a tech nerd 🦉💡  
-- I’m working on a bass music map of the world! 🎶🌐
 
 </details>

@@ -3,14 +3,14 @@
 
 I am a Software Developer with a unique background: over 10 years of professional experience in Sound Engineering and Event Production. Currently completing the advanced curriculum at **42 Berlin**, I am bridging the gap between low-level programming and audio artistry.
 
-My goal is to leverage my expertise in acoustic physics, signal flow, and large-scale production management to build robust audio tools and immersive sonic experiences for the game industry.
+My goal is to leverage my expertise in acoustic physics, signal flow, and large-scale production management to build robust audio tools and immersive sonic experiences for the game/art/event industry.
 
 ---
 
 ### 🛠 Technical Skills
 
 **Programming & Development**
-* **Languages:** C, C++, Python, Shell Scripting
+* **Languages:** C, C++
 * **Version Control:** Git, GitHub
 * **System:** Unix/Linux environment, Makefiles, Memory Management
 
@@ -23,6 +23,7 @@ My goal is to leverage my expertise in acoustic physics, signal flow, and large-
 * **Audio Middleware:** Wwise, FMOD (Integration & API)
 * **Game Engines:** Unity, Unreal Engine 5
 * **DSP:** Real-time audio processing concepts
+* **Languages:** RUST
 
 ---
 

@@ -16,7 +16,7 @@ My goal is to leverage my expertise in acoustic physics, signal flow, and large-
 
 **Audio & Production**
 * **Engineering:** Studio Recording, Live Sound Mixing, Signal Processing
-* **DAW:** Pro Tools, Reaper, Logic Pro
+* **DAW:** Pro Tools, Reaper, Ableton
 * **Management:** Technical Direction, Event Logistics, Team Leadership
 
 **Current Focus & Learning**

@@ -1,7 +1,7 @@
 # Damien Rongier
-### Audio Programmer | Software Engineer | Sound Specialist
+### Audio Programmer | Software Engineer
 
-I am a software developer with over ten years of experience in sound engineering and live event production. I completed the core curriculum at 42 Berlin, where I went from low-level C through to systems and web development.
+I am a software developer with six years of experience in sound engineering and live event production. I completed the core curriculum at 42 Berlin, where I went from low-level C through to systems and web development.
 
 I enjoy building things around sound most of all, but I'm also solid at regular software development: C/C++, systems, web apps, back-end work.
 
@@ -29,7 +29,7 @@ I enjoy building things around sound most of all, but I'm also solid at regular 
 
 ### 💼 Background & Key Experiences
 
-**Software Engineering Student** | *42 Berlin (2024 - Present)*
+**Software Engineer (alumni)** | *42 Berlin (2024 - 2026)*
 Developing strong algorithmic thinking and low-level system understanding through C/C++ projects. Focus on optimization and architecture.
 
 **Technical Director & Co-Founder** | *Ekotone Festival (2022 - 2024)*

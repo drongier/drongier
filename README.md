@@ -40,14 +40,6 @@ Responsible for the maintenance and logistics of large-scale audio systems. Ensu
 
 ---
 
-### 🔭 Selected Projects
-
-*Note: You can view the source code for my algorithmic projects in the repositories below.*
-
-WIP
-
----
-
 ### 📫 Contact
 
 * **Email:** rongier.damien@gmail.com

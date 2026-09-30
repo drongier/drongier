@@ -32,7 +32,7 @@ I enjoy building things around sound most of all, but I'm also solid at regular 
 **Software Engineer (alumni)** | *42 Berlin (2024 - 2026)*
 Developing strong algorithmic thinking and low-level system understanding through C/C++ projects. Focus on optimization and architecture.
 
-**Technical Director & Co-Founder** | *Ekotone Festival (2022 - 2024)*
+**Technical Director & Co-Founder** | *Ekotone Festival (2022 - Present)*
 Managed the technical production, sound design, and artistic direction for a music festival and over 10 independent events. Oversaw budgeting, team coordination, and on-site acoustic engineering.
 
 **Audio Stock Manager & Sound Technician** | *Disneyland Paris (2018 - 2022)*

@@ -1,9 +1,9 @@
 # Damien Rongier
 ### Audio Programmer | Software Engineer | Sound Specialist
 
-I am a Software Developer with a unique background: over 10 years of professional experience in Sound Engineering and Event Production. Currently completing the advanced curriculum at **42 Berlin**, I am bridging the gap between low-level programming and audio artistry.
+I am a software developer with over ten years of experience in sound engineering and live event production. I completed the core curriculum at 42 Berlin, where I went from low-level C through to systems and web development.
 
-My goal is to leverage my expertise in acoustic physics, signal flow, and large-scale production management to build robust audio tools and immersive sonic experiences for the game/art/event industry.
+I enjoy building things around sound most of all, but I'm also solid at regular software development: C/C++, systems, web apps, back-end work.
 
 ---
 
@@ -16,7 +16,7 @@ My goal is to leverage my expertise in acoustic physics, signal flow, and large-
 
 **Audio & Production**
 * **Engineering:** Studio Recording, Live Sound Mixing, Signal Processing
-* **DAW:** Pro Tools, Reaper, Ableton
+* **DAW:** Pro Tools, Ableton
 * **Management:** Technical Direction, Event Logistics, Team Leadership
 
 **Current Focus & Learning**

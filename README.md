@@ -29,6 +29,9 @@ I enjoy building things around sound most of all, but I'm also solid at regular 
 
 ### 💼 Background & Key Experiences
 
+**Lead Developer** | *[L32](https://l32.studio) (Oct 2026 - Present)*
+Leading development at L32, a digital studio for the music industry: automations, internal tools and websites for labels, premiere channels and music businesses.
+
 **Software Engineer (alumni)** | *42 Berlin (2024 - 2026)*
 Developing strong algorithmic thinking and low-level system understanding through C/C++ projects. Focus on optimization and architecture.
 
